@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm SABIKA AFRIN</h1>
-<h3 align="center">Web Development Fresher | Building a Career in Code</h3>
+<h3 align="center">Frontend Developer | Building a Career in Code</h3>
 <h3 align="center">About me:</h3>
 <p align="justify">
-After building a strong foundation in HTML and CSS, I am now expanding my skill set by learning JavaScript, with each GitHub repository reflecting my growth and learning progress. Knowledgeable in WordPress and Elementor. Passionate about building projects and learning new technologies. Focused on turning my passion for coding into a successful web development career.</p>
+After building a strong foundation in HTML and CSS, I am now expanding my skill set by learning JavaScript & react, with each GitHub repository reflecting my growth and learning progress. Knowledgeable in C, C++, PHP, Basic Python, WordPress. Passionate about building projects and learning new technologies. Focused on turning my passion for coding into a successful web development career.</p>
 
 
   
