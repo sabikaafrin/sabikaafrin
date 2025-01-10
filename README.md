@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm SABIKA AFRIN</h1>
+<h1 align="center">Hi , I'm SABIKA AFRIN</h1>
 <h3 align="center">Frontend Developer | Building a Career in Code</h3>
 <h3 align="center">About me:</h3>
 <p align="justify">
