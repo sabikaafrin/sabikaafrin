@@ -79,6 +79,16 @@ After building a strong foundation in <strong>JavaScript, PHP, MySQL</strong>, I
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
   </a>
 
+  <!-- React -->
+<a href="https://react.dev/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/>
+</a>
+
+<!-- Bootstrap -->
+<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/>
+</a>
+
   <!-- Figma -->
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
@@ -93,6 +103,13 @@ After building a strong foundation in <strong>JavaScript, PHP, MySQL</strong>, I
   <a href="https://localwp.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="LocalWP" width="40" height="40"/>
   </a>
+
+  <!-- FileZilla -->
+<a href="https://filezilla-project.org/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="FileZilla" width="40" height="40"/>
+</a>
+
+
 </p>
 
 ---
