@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#e63946;">Sabika Afrin</span></h1>
+<h1 align="center">Hi! I'm <span style="color:#e63946;">Sabika Afrin</span></h1>
 <h3 align="center">Web Developer | WordPress </h3>
 
 ---
