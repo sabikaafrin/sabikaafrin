@@ -104,6 +104,11 @@ After building a strong foundation in <strong>JavaScript, PHP, MySQL</strong>, I
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="LocalWP" width="40" height="40"/>
   </a>
 
+  <!-- Advanced Custom Fields (ACF) -->
+<a href="https://www.advancedcustomfields.com/" target="_blank" rel="noreferrer" style="margin-right:10px;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="ACF" width="40" height="40"/>
+</a>
+
   <!-- FileZilla -->
 <a href="https://filezilla-project.org/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="FileZilla" width="40" height="40"/>
