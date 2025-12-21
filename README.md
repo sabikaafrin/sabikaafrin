@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#e63946;">Sabika Afrin</span></h1>
-<h3 align="center">Frontend Developer | WordPress Enthusiast</h3>
+<h3 align="center">Web Developer | WordPress </h3>
 
 ---
 
 ### 👩‍💻 About Me:
 <p align="justify">
-After building a strong foundation in <strong>JavaScript, PHP, MySQL</strong>, I am now expanding my skill set by learning <strong>WordPress</strong>. Each GitHub repository reflects my growth and learning progress. I have knowledge in <strong>C, C++, Basic Python, jQuery</strong>. Passionate about building projects and learning new technologies. Focused on turning my passion for coding into a successful web development career.
+After building a strong foundation in <strong>JavaScript, PHP, MySQL</strong>, I am now expanding my skill set by learning <strong>WordPress</strong>. Each GitHub repository reflects my growth and learning progress. I have knowledge in <strong>C, C++, Basic Python, jQuery, Bootstrap, React, API </strong>. Passionate about building projects and learning new technologies. Focused on turning my passion for coding into a successful web development career.
 </p>
 
 - 🔭 I’m currently working on **Figma Projects**  
-- 🌱 I’m currently learning **WordPress Theme Development**  
+- 🌱 I’m currently learning **WordPress Theme Developmen**  
 - 📫 How to reach me: **sabikaafrin31@gmail.com**
 
 ---
