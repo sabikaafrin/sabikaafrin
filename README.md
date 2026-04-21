@@ -15,7 +15,7 @@ After building a strong foundation in <strong>JavaScript, PHP, MySQL</strong>, I
 ---
 
 ### 🤝 Connect with Me
-<p>
+<p style="display: flex;">
   <a href="https://www.linkedin.com/in/sabika-afrin-702988318/" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
   </a>
