@@ -66,9 +66,4 @@ After building a strong foundation in <strong>JavaScript, PHP, MySQL</strong>, I
 </table>
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <!-- <img src="https://github-readme-stats.vercel.app/api?username=sabikaafrin&show_icons=true&theme=radical&locale=en" alt="Sabika's GitHub Stats" /> -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabikaafrin&layout=compact&theme=radical&locale=en" alt="Top Languages" />
-</p>
+
