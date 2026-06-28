@@ -8,7 +8,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=850&lines=WordPress+Developer;Frontend+Developer;Bricks+Builder+Expert;Figma+to+WordPress+Specialist;Building+Modern+Responsive+Websites;Always+Learning+New+Technologies" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=850&lines=WordPress+Developer;Frontend+Developer;Bricks+Builder;Figma+to+WordPress;Building+Modern+Responsive+Websites;Always+Learning+New+Technologies" alt="Typing Animation" />
 </p>
 
 ---
