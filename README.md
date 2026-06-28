@@ -1,69 +1,129 @@
-<h1 align="center">Hi! I'm <span style="color:#e63946;">Sabika Afrin</span></h1>
-<h3 align="center">Web Developer | WordPress </h3>
+<h1 align="center">
+  Hi 👋 I'm 
+  <span style="color:#ff4d6d;">Sabika Afrin</span>
+</h1>
 
----
+<h3 align="center">
+🚀 WordPress Developer | Frontend Developer | Web Developer
+</h3>
 
-### 👩‍💻 About Me:
-<p align="justify">
-After building a strong foundation in <strong>JavaScript, PHP, MySQL</strong>, I am now expanding my skill set by learning <strong>WordPress</strong>. Each GitHub repository reflects my growth and learning progress. I have knowledge in <strong>C, C++, Basic Python, jQuery, Bootstrap, React, API </strong>. Passionate about building projects and learning new technologies. Focused on turning my passion for coding into a successful web development career.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&duration=3000&pause=1000&color=FF4D6D&center=true&vCenter=true&width=850&lines=WordPress+Developer;Frontend+Developer;Bricks+Builder+Expert;Figma+to+WordPress+Specialist;Building+Modern+Responsive+Websites;Always+Learning+New+Technologies" alt="Typing Animation" />
 </p>
 
-- 🔭 I’m currently working on **Figma Projects**  
-- 🌱 I’m currently learning **WordPress Theme Developmen**  
-- 📫 How to reach me: **sabikaafrin31@gmail.com**
+---
+
+<div align="center">
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="350"/>
+
+</div>
 
 ---
-### 🤝 Connect with Me
 
-<table>
-  <tr>
-    <td>
-      <a href="https://www.linkedin.com/in/sabika-afrin-702988318/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="#" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://leetcode.com/u/STyc5ID6Lc/" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-      </a>
-    </td>
-    <td>
-      <a href="https://discord.gg/sabikaafrin" target="_blank">
-        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="30" width="40" />
-      </a>
-    </td>
-  </tr>
-</table>
+# 👩‍💻 About Me
 
+<p align="justify"> After building a strong foundation in <strong>JavaScript, PHP, MySQL</strong>, I am now expanding my skill set by learning <strong>WordPress</strong>. Each GitHub repository reflects my growth and learning progress. I have knowledge in <strong>C, C++, Basic Python, jQuery, Bootstrap, React, API </strong>. Passionate about building projects and learning new technologies. Focused on turning my passion for coding into a successful web development career. </p>
 
+💻 Specialized in:
+
+- WordPress Development
+- Bricks Builder
+- Figma to WordPress
+- Frontend Development
+- Responsive Website Design
+
+🧠 Skilled in:
+
+- JavaScript
+- PHP
+- MySQL
+- ACF
+- Bootstrap
+- jQuery
+- API Integration
+
+🚀 I enjoy transforming creative ideas into fully functional and visually appealing websites.
+
+🔥 Every repository on my GitHub reflects my learning journey, growth, and consistency.
+
+🎯 Goal:
+Become a highly skilled **Full Stack WordPress Developer** and build impactful digital experiences.
 
 ---
-### 🛠️ Languages and Tools
 
-<table>
-  <tr>
-    <td><a href="https://www.cprogramming.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/cpp/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a></td>
-    <td><a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/></a></td>
-    <td><a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a></td>
-    <td><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="40" height="40"/></a></td>
-    <td><a href="https://jquery.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40" height="40"/></a></td>
-    <td><a href="https://www.php.net"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40"/></a></td>
-    <td><a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/></a></td>
-    <td><a href="https://react.dev/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="40" height="40"/></a></td>
-    <td><a href="https://getbootstrap.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40"/></a></td>
-    <td><a href="https://www.figma.com/"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a></td>
-    <td><a href="https://code.visualstudio.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VSCode" width="40" height="40"/></a></td>
-    <td><a href="https://localwp.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/></a></td>
-    <td><a href="https://filezilla-project.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/filezilla/filezilla-plain.svg" alt="FileZilla" width="40" height="40"/></a></td>
-  </tr>
-</table>
+# 🚀 Current Focus
 
+<div align="center">
 
+| 🌱 Learning | 🔭 Working On | ⚡ Exploring |
+|---|---|---|
+| Advanced WordPress Theme Development | Figma to WordPress Projects | Dynamic WordPress using ACF |
 
+</div>
+
+---
+
+# 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://github.com/sabikaafrin">
+  <img src="https://skillicons.dev/icons?i=github" height="55"/>
+</a>
+
+<a href="https://www.linkedin.com/in/sabika-afrin-702988318/">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="55"/>
+</a>
+
+<a href="https://leetcode.com/u/STyc5ID6Lc/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="50"/>
+</a>
+
+<a href="https://discord.gg/sabikaafrin">
+  <img src="https://skillicons.dev/icons?i=discord" height="55"/>
+</a>
+
+</p>
+
+---
+
+# 🛠️ Tech Stack
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery,php,mysql,wordpress,figma,vscode,git,github,c" />
+
+</div>
+
+---
+
+# 🧠 Most Used Languages
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabikaafrin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
+
+</p>
+
+---
+
+<p align="center">
+  ⭐ <strong>“Code. Learn. Build. Improve. Repeat.”</strong> ⭐
+</p>
+
+---
+# 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sabikaafrin&label=PROFILE+VIEWS&color=ff4d6d&style=for-the-badge"/>
+
+</p>
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile ⭐
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=ff4d6d&height=120&section=footer"/>
+
+</div>
