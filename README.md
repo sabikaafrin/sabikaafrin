@@ -47,7 +47,7 @@
 🔥 Every repository on my GitHub reflects my learning journey, growth, and consistency.
 
 🎯 Goal:
-Become a highly skilled **Full Stack WordPress Developer** and build impactful digital experiences.
+Become a highly skilled **Full Stack Developer** and build impactful digital experiences.
 
 ---
 
@@ -94,16 +94,6 @@ Become a highly skilled **Full Stack WordPress Developer** and build impactful d
 <img src="https://skillicons.dev/icons?i=html,css,js,react,bootstrap,jquery,php,mysql,wordpress,figma,vscode,git,github,c" />
 
 </div>
-
----
-
-# 🧠 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabikaafrin&layout=compact&theme=radical&hide_border=true&bg_color=0D1117"/>
-
-</p>
 
 ---
 
